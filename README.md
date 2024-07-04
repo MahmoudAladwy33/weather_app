@@ -1,4 +1,4 @@
-About
+# About : 
 WeatherApp is a user-friendly application designed to provide accurate and up-to-date weather information. Whether you need the current conditions or a forecast for the next three days, WeatherApp has you covered. Simply enter the name of any city, and enjoy a seamless experience with visually appealing graphics that make weather updates more engaging.
 
 Features
