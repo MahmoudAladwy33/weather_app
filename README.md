@@ -14,10 +14,20 @@ Dio: Employs Dio for making HTTP requests to fetch real-time weather data from o
 flutter_launcher_icons: Customizes the app icon for a unique and professional look.
 
 #Screenshots : 
-![IMG_20240704_164002](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/4c273cbd-9486-4f2e-a8a6-c3a23f376b2e)
-![IMG_20240704_163951](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/1546c896-9d89-41ba-bdcd-584c2dd87898)
-![IMG_20240704_163935](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/6ecc7b65-1c22-4958-b449-f4a3b1bfb890)
-![IMG_20240704_163922](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/756eb04b-f056-4928-8565-20943511aed9)
+
+<table>
+  <tr>
+    <td><img src="![IMG_20240704_164002](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/4c273cbd-9486-4f2e-a8a6-c3a23f376b2e)"  width="200"/></td>
+    <td><img src="![IMG_20240704_163951](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/1546c896-9d89-41ba-bdcd-584c2dd87898)"  width="200"/></td>
+    <td><img src="![IMG_20240704_163935](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/6ecc7b65-1c22-4958-b449-f4a3b1bfb890)" width="200"/></td>
+     <td><img src="![IMG_20240704_163922](https://github.com/MahmoudAladwy33/weather_app/assets/96237228/756eb04b-f056-4928-8565-20943511aed9)"  width="200"/></td>
+  </tr>
+</table>
+
+
+
+
+
 
 #Video :
 
