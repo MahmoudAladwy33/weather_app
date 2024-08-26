@@ -27,7 +27,8 @@ class Searchview extends StatelessWidget {
           ),
         ),
       ),
-      body: Container(
+      body:
+       Container(
         decoration:const BoxDecoration(
           color: Color(0xff304463),
         ),
